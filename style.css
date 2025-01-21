@@ -293,6 +293,10 @@ html {
   .w-optimization {
     display: contents;
   }
+
+  .w-webflow-badge {
+    display: none !important;
+  }
   
   .w-webflow-badge, .w-webflow-badge > img {
     box-sizing: unset;
